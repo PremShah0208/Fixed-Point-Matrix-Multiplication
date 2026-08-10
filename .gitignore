@@ -1,0 +1,20 @@
+# Synopsys VCS build artifacts
+csrc/
+simv
+simv.daidir/
+ucli.key
+vc_hdrs.h
+
+# Waveform / simulation output
+*.vpd
+*.vcd
+*.fsdb
+*.log
+
+# DVE session files
+DVEfiles/
+
+# Temporary files
+*.tmp
+*.swp
+*~
